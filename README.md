@@ -3,6 +3,8 @@
 <!--
 **leticiacolombo/leticiacolombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[gif]: https://64.media.tumblr.com/207a2341df673ca4514637f67924506a/tumblr_o4tiytNTVK1u2yfqbo1_400.gifv
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
