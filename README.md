@@ -1,11 +1,13 @@
 ### Oi, eu sou a Lê! :sunflower:
 
-![GIF](https://64.media.tumblr.com/207a2341df673ca4514637f67924506a/tumblr_o4tiytNTVK1u2yfqbo1_400.gifv)
+![GIF](https://www.lovethispic.com/uploaded_images/118813-Pixel-Kitty.gif)
 
-Hello, I'm Leticia, from Brazil and I'm gratuated at Computer Engneering.
-Currently I work as a full-stack developer with PHP, MySQL and AngularJS, but in my free time I'm studying VUE.js.
+<p align="center">
+  Hello, I'm <b>Leticia</b>, from Brazil and I'm gratuated at Computer Engneering.<br>
+  Currently I work as a full-stack developer with <i>PHP, MySQL</i> and <i>AngularJS</i>, but in my free time I'm studying <i>VUE.js</i>.
+</p>
 
-Here are some (fun) facts about me:
+## Here are some (fun) facts about me:
 
 - 🐶 I love cats and dogs
 - 💻 I started to format some computers when I was 10 to help my dad cause it was his work
