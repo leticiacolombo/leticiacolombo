@@ -12,7 +12,7 @@
 ## Here are some (fun) facts about me:
 
 - 🐶 I love cats and dogs
-- 💻 I started to format computers when I was 10 to help my dad cause it was his work
+- 💻 I started to format computers when I was 10 to help my dad because it was his work
 - 🐢 When I was a child I let a tortoise run away from me (it's true)
 - 📜 It has been 10 years I started to study programming
 - 👧 People think I am almost 8 years younger then I really am
