@@ -1,6 +1,8 @@
 ### Oi, eu sou a Lê! :sunflower:
 
-![GIF](https://www.lovethispic.com/uploaded_images/118813-Pixel-Kitty.gif)
+<p align="center">
+  <img src="https://www.lovethispic.com/uploaded_images/118813-Pixel-Kitty.gif" />
+</p>
 
 <p align="center">
   Hello, I'm <b>Leticia</b>, from Brazil and I'm gratuated at Computer Engneering.<br>
