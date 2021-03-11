@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Hello, I'm <b>Leticia</b>, from Brazil and I'm gratuated at Computer Engneering.<br>
+  Hello, I'm <b>Leticia</b>, from Brazil and I have gratuated in Computer Engneering.<br>
   Currently I work as a full-stack developer with <i>PHP, MySQL</i> and <i>AngularJS</i>, but in my free time I'm studying <i>VUE.js</i>.
 </p>
 
